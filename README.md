@@ -12,7 +12,7 @@
 
 
 
-本项目为BUPT year2 Design & Build课程代码，要求使用jsp+servlet完成，前后端均为使用框架。因完成项目时尚在学习前端，所以前端技术使用比较不统一，使用模板，js，jQuery，Boostrap，html，jsp，css完成。
+本项目为BUPT year2 Design & Build课程代码，要求使用jsp+servlet完成，前后端均未使用框架。因完成项目时尚在学习前端，所以前端技术使用比较不统一，使用模板，js，jQuery，Boostrap，html，jsp，css完成。
 
 
 
